@@ -1,0 +1,4 @@
+#summary All your Feedback are belong to us.
+#labels Featured
+
+Please leave your feedback either on this page or in the issue tracker. Any specific requests are very welcome although the project's currently a little inactive. If you're willing to contribute some code / time / knowledge to the project, please get in touch!
