@@ -1,6 +1,4 @@
 #labels Featured
-#Configuration of the Notifier
-
 = Introduction =
 
 The Notifier comes with a preference pane which allows you to specify the Hudson instances you wish to monitor. Just click on the Notifier's icon and select Preferences. Add your Hudson instances as a comma-separated list to the preference pane's Feed URLs field using one of the following two ways of specifying the instance:
