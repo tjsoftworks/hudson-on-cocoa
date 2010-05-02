@@ -3,7 +3,7 @@
 
 = Introduction =
 
-You have two ways of adding a Hudson instance to the Notifier:
+The Notifier comes with a preference pane which allows you to specify the Hudson instances you wish to monitor. Just click on the Notifier's icon and select Preferences. Add your Hudson instances as a comma-separated list to the preference pane's Feed URLs field using one of the following two ways of specifying the instance:
 
   # The instance's Remote API
   # The instance's RSS feed
