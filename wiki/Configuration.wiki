@@ -5,8 +5,8 @@
 
 You have two ways of adding a Hudson instance to the Notifier:
 
-# The instance's Remote API
-# The instance's RSS feed
+  # The instance's Remote API
+  # The instance's RSS feed
 
 The RSS feed-based access is a legacy from the initial version of the Notifier and has since been superseded by the Remote API access. Only Remote API-based access provides support for self-signed server certificates and authenticated Hudson instances.
 
