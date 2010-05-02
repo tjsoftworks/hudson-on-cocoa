@@ -27,3 +27,7 @@ You start out with your Hudson instance's URL and append "/rssAll" to the end. E
 `http://some.server/hudson/rssAll`
 
 This will only work with unauthenticated instances running. Https is only supported with valid server certificates.
+
+= Blacklisting =
+
+You can blacklist certain Hudson jobs by specifying a comma-separated list of strings. If any of the strings is found in a job's name, the Notifier will not display the job (neither in its menu nor as a notification).
